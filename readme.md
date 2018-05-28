@@ -1,6 +1,6 @@
 # Javascript 基础语法练习
 
-## Guess Number 
+## Guess Number 
 
 用TDD（Test Driven Development）开发一个简单的猜数字游戏：
 
